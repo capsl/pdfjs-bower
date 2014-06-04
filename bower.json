@@ -15,7 +15,7 @@
     "viewer"
   ],
   "license": "BSD-2-Clause",
-   "main": [
+  "main": [
     "./dist/compatibility.js",
     "./dist/pdf.js"
   ],
